@@ -14,6 +14,9 @@ This project implements a movie recommendation system using machine learning tec
 
 5. **Recommendation Generation:** When the user provides their favorite movie, the system compares it with all movies in the dataset using cosine similarity and recommends the top 30 most similar movies.
 
+![screenshot](https://github.com/iamutk4/Movie-Recommendation-System/assets/69798933/4ba63315-2e4f-4830-b4ca-7e25d8dae1d7)
+
+
 ## Libraries Used:
 
 - `pandas`: For data manipulation and analysis
